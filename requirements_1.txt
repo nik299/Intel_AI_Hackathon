@@ -1,0 +1,14 @@
+pandas
+sklearn
+tensorflow
+keras
+re
+numpy
+os
+collections
+logging
+time
+pickle
+itertools
+requests
+flask
