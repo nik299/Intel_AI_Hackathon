@@ -36,12 +36,14 @@ flask run -host=0.0.0.0 --port=5050
 Now both the servers will be up and running.
 Download and install the apk in an android.
 
-# LINK FOR VIDEO SUBMISSION : https://youtu.be/-B6BJ4aR-Qc
 
 Later on opening the app you will be prompted to enter the ip-adress of the server.(The machine hosting and the android should be connected to the same wifi network)
 
 The app will be completely functional for testing now.
 
-# Please refer to the video to find out more on how to interact with the app.
+## Please refer to the video to find out more on how to interact with the app.
+
+
+# LINK FOR VIDEO SUBMISSION : https://youtu.be/-B6BJ4aR-Qc
 
 
