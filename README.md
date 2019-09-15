@@ -22,7 +22,7 @@ into the server advanced folder.
 export FLASK_APP=app_advanced.py
 flask run -host=0.0.0.0 --port=5000
 
-# For implementing the Sentiment Analysis Server:
+# For implementing the chatbot Server:
 
 1. Download the weights for the network from the link - https://drive.google.com/open?id=1OmrvjlXFvx2tLvDwB4f22ax_NgEOiQ-f
 into the tmp folder inside server_simple_classifier folder.
